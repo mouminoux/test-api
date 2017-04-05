@@ -1,0 +1,8 @@
+tenants:
+  moum-test:
+    hostnames:
+      - moum-test.mirakl.net
+
+moum-test:
+  datasource:
+    url: jdbc:postgresql://mmp-database.moum-test:5432/mirakl_db
